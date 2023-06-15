@@ -1,1 +1,1 @@
-hello world program is very simple
+my first script on C 
