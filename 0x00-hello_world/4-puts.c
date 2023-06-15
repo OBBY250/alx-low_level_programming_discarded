@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
  * main - this is sane insane
- * return: 0 (success)
+ * Return: 0 (success)
  */
 
-int main(viod)
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 
