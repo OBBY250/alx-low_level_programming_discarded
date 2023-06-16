@@ -11,5 +11,5 @@ int main(void)
 	printf("The size of a char is %zu bytes\n", sizeof(char));
 	printf("The size of a long int is %zu bytes\n", sizeof(long int));
 
-	return 0;
+	return (0);
 }
