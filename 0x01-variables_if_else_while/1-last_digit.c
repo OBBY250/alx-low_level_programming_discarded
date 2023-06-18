@@ -1,36 +1,24 @@
-File Edit Options Buffers Tools C Help                                                                                                                
 #include <stdlib.h>
-
+#include <time.h>
 #include <stdio.h>
 
-#include <time.h>
-
-
-
-/**                                                                                                                                                   
- * main -prints a number                                                                                                                              
- * Return: Always (success)                                                                                                                           
+/**
+ * main -prints a nber
+ * Return: Always 0 (success)
  */
 
 int main(void)
-
 {
-
-        int n, lastd;
+	int n;
+	
+	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	lastd = n % 10;
-
-	if (last > 5)
-	{
-	printf("last digit of %d is %d and is greater than 5\n", n, lastd);
-	}
-	else if (lastd < 6 && lasd != 0)
-	{
-	printf("last digit of %d is %d and is less than 6 and not 0\n", n, lastd);
-	}
-	else if(lastd == 0)
-	{
-	printf("last digit of %d is %d and is 0\n", n, lastd);
-	}
-	return (0);
+	printf("Last digit of %d is %d", n, n % 10);
+	if (n % 10 > 5)
+		printf("n is greater than 5\n");
+	else if (n % 10 == 0)
+		printf("n is 0\n");
+	else if (n % 10 < 6 && n % 10 != 0)
+		printf("n is less than 6 and not 0\n");
+	return (0)
 }
