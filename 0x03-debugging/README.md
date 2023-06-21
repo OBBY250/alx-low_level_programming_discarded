@@ -1,1 +1,1 @@
-how I wwil be debugging the bugs in my codes
+Solutions to debugging tasks
