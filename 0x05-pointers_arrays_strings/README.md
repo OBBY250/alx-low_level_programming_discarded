@@ -1,1 +1,1 @@
-my folder for pointers strings and arrays
+Solutions to projects on pointers, arrays & strings
