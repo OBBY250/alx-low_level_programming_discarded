@@ -1,1 +1,1 @@
-this is how things is done
+Solution to task on Arrays & Pointers
