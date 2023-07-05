@@ -1,1 +1,1 @@
-my pointers and arrays
+Solutions to tasks on more pointers & arrays
