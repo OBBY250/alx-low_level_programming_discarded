@@ -1,1 +1,1 @@
-how I deal with recursion
+Add solutions to tasks on recurssions
