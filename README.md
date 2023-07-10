@@ -1,1 +1,1 @@
-how I deal with recursion
+Solutions to tasks on static libraries
