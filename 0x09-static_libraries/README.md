@@ -1,1 +1,1 @@
-I am dumb ass
+Solutions to tasks on static libraries
