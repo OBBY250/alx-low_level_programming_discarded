@@ -1,1 +1,1 @@
-my common mistake in arguments
+Solution to tasks on arguments for main
