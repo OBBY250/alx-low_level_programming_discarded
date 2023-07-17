@@ -1,1 +1,1 @@
-Will I make it in alx???/
+Solutions to tasks on structs
