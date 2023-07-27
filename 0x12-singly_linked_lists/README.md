@@ -1,1 +1,1 @@
-never thought ama be a pussy all along!!
+Solutions to tasks on singly linked lists
