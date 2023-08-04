@@ -1,1 +1,1 @@
-where is malloc
+Solution to tasks on more malloc
