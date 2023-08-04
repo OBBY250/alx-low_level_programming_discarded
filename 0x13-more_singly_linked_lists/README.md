@@ -1,1 +1,1 @@
-I love you jo
+Solutions for tasks on more singly lineked lists
